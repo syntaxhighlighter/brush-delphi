@@ -1,6 +1,6 @@
 # syntaxhighlighter/brush-delphi
 
-delphi brush module for [SyntaxHighlighter](https://github.com/syntaxhighlighter).
+Delphi brush module for [SyntaxHighlighter](https://github.com/syntaxhighlighter).
 
 [![Build Status](https://travis-ci.org/alexgorbatchev/brush-delphi.svg)](https://travis-ci.org/alexgorbatchev/brush-delphi)
 
