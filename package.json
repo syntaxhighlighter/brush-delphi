@@ -1,5 +1,5 @@
 {
-  "name": "brush-delphi",
+  "name": "@alexgorbatchev/brush-delphi",
   "version": "4.0.0",
   "description": "delphi brush module for SyntaxHighlighter.",
   "keywords": [
