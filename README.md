@@ -2,15 +2,15 @@
 
 [![GratiPay](https://img.shields.io/gratipay/user/alexgorbatchev.svg)](https://gratipay.com/alexgorbatchev/)
 [![Build Status](https://travis-ci.org/syntaxhighlighter/brush-delphi.svg)](https://travis-ci.org/syntaxhighlighter/brush-delphi)
-![Downloads](https://img.shields.io/npm/dm/@alexgorbatchev/brush-delphi.svg)
-![Version](https://img.shields.io/npm/v/@alexgorbatchev/brush-delphi.svg)
+![Downloads](https://img.shields.io/npm/dm/brush-delphi.svg)
+![Version](https://img.shields.io/npm/v/brush-delphi.svg)
 
 Delphi brush module for [SyntaxHighlighter](https://github.com/syntaxhighlighter/syntaxhighlighter).
 
 ## Installation
 
 ```
-npm install @alexgorbatchev/brush-delphi
+npm install brush-delphi
 ```
 
 ## Usage
