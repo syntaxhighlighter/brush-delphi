@@ -1,5 +1,5 @@
 var BrushBase = require('brush-base');
-var regexLib = require('regex-lib');
+var regexLib = require('syntaxhighlighter-regex').commonRegExp;
 
 function Brush() {
   var keywords = 'abs addr and ansichar ansistring array as asm begin boolean byte cardinal ' +
